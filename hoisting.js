@@ -17,7 +17,8 @@ function crazy() {
     console.log("hey!!!")
   }
 }
-crazy();
+var crazy1 = crazy();
+crazy1 = crazy1();
 
 function sayMyName() {
   // fix the code in here:
